@@ -1,0 +1,5 @@
+streamlit~=1.30.0
+tensorflow-hub~=0.16.0
+tensorflow~=2.13.0
+numpy~=1.24.3
+pillow~=10.2.0
